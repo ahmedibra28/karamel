@@ -237,13 +237,13 @@ const data = [
     category: 'Desert and pastries',
     item: 'Black Forest Ckae',
     price: 3.5,
-    image: '283A9938.JPG',
+    image: '283A2944.JPG',
   },
   {
     category: 'Desert and pastries',
     item: 'White Forest Cake',
     price: 3.5,
-    image: 'IMG-9640.JPG',
+    image: 'IMG_9640.JPG',
   },
   {
     category: 'Desert and pastries',
@@ -285,6 +285,7 @@ const data = [
     category: 'Desert and pastries',
     item: 'Bur',
     price: 0.5,
+    image: 'hq720.jpg',
   },
   {
     category: 'Breakfast',
@@ -326,11 +327,13 @@ const data = [
     category: 'Breakfast',
     item: 'fried Goat Kidney (Keli)',
     price: 5,
+    image: 'hq.jpg',
   },
   {
     category: 'Breakfast',
     item: 'Fresh Tomatoe Sauce(Dalacbilash)',
     price: 3,
+    image: 'tomato-sauce-recipe.jpg',
   },
   {
     category: 'Breakfast',
@@ -1026,7 +1029,7 @@ const data = [
     category: 'Pasta',
     item: 'Pasta Lasagna (pasta lasaanya)',
     price: 8,
-    image: '116A3120.JPG',
+    image: '1I6A3120.JPG',
   },
   {
     category: 'Pasta',
