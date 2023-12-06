@@ -5,8 +5,8 @@ import { Roboto } from 'next/font/google'
 const roboto = Roboto({ subsets: ['latin'], weight: '400' })
 
 export const metadata: Metadata = {
-  title: 'La Bella Restaurant',
-  description: 'La Bella Restaurant',
+  title: 'Karamel Hotel & Restaurant',
+  description: 'Karamel Hotel & Restaurant',
 }
 
 export default function RootLayout({
