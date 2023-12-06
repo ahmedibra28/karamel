@@ -14,121 +14,121 @@ const data = [
   {
     category: 'Hot Drinks',
     item: 'Americano',
-    price: 'S.Shot: 1.5, D.Shot: 2',
+    price: 'S.Shot: $1.5, D.Shot: $2',
     image: 'IMG_9591.JPG',
   },
   {
     category: 'Hot Drinks',
     item: 'Espresso',
-    price: 'S.Shot: 1.5, D.Shot: 2',
+    price: 'S.Shot: $1.5, D.Shot: $2',
     image: 'IMG_9696 (1).JPG',
   },
   {
     category: 'Hot Drinks',
     item: 'Cappuccino',
-    price: 'S.Shot: 1.5, D.Shot: 2',
+    price: 'S.Shot: $1.5, D.Shot: $2',
     image: 'IMG_9687 (1).JPG',
   },
   {
     category: 'Hot Drinks',
     item: 'Café latte',
-    price: 'S.Shot: 2, D.Shot: 2',
+    price: 'S.Shot: 2, D.Shot: $2',
     image: '1I6A3132.JPG',
   },
   {
     category: 'Hot Drinks',
     item: 'Café Macchiato',
-    price: 'S.Shot: 1.5, D.Shot: 2',
+    price: 'S.Shot: $1.5, D.Shot: $2',
     image: 'IMG_9599.JPG',
   },
   {
     category: 'Hot Drinks',
     item: 'Hana Tea',
-    price: 'S.Shot: 1.5, D.Shot: 2',
+    price: 'S.Shot: $1.5, D.Shot: $2',
     image: 'IMG_9680 (1).JPG',
   },
   {
     category: 'Cold Drinks',
     item: 'feeto Babaay',
-    price: 'GL: 1.5, HL:1.5, HL:1.5',
+    price: 'GL: $1.5, HL:$1.5, HL:$1.5',
     image: '283A1667.JPG',
   },
   {
     category: 'Cold Drinks',
     item: 'Mango',
-    price: 'GL: 2, HL:4, HL:8',
+    price: 'GL: $2, HL:$4, HL:$8',
     image: '283A1652.JPG',
   },
   {
     category: 'Cold Drinks',
     item: 'Cocktail',
-    price: 'GL: 1.5, HL:3, HL:6',
+    price: 'GL: $1.5, HL:$3, HL: $6',
     image: '1I6A3134.JPG',
   },
   {
     category: 'Cold Drinks',
     item: 'Isbandhees Shake',
-    price: 'GL: 2, HL:2, HL:4',
+    price: 'GL: $2, HL:$2, HL:$4',
     image: '283A1637.JPG',
   },
   {
     category: 'Cold Drinks',
     item: 'isbaandhees',
-    price: 'GL: 1, HL:2, HL:4',
+    price: 'GL: $1, HL:$2, HL:$4',
     image: 'IMG_9622.JPG',
   },
   {
     category: 'Cold Drinks',
     item: 'isbarmuuto',
-    price: 'GL: 1, HL:2, HL:4',
+    price: 'GL: $1, HL:$2, HL:$4',
     image: 'IMG_9634.JPG',
   },
   {
     category: 'Cold Drinks',
     item: 'Watermelon',
-    price: 'GL: 2, HL:2, HL:4',
+    price: 'GL: $2, HL:$2, HL:$4',
     image: '283A1656.JPG',
   },
   {
     category: 'Cold Drinks',
     item: 'Vanilla Shake',
-    price: 'GL: 3, HL:6, HL:12',
+    price: 'GL: $3, HL: $6, HL: $12',
     image: 'IMG_9627.JPG',
   },
   {
     category: 'Cold Drinks',
     item: 'Milk shake',
-    price: 'GL: 3, HL:6, HL:9',
+    price: 'GL: $3, HL: $6, HL: $9',
     image: 'IMG_9595.JPG',
   },
   {
     category: 'Cold Drinks',
     item: 'Chocolate Shake',
-    price: 'GL: 3, HL:6, HL:9',
+    price: 'GL: $3, HL: $6, HL: $9',
     image: 'IMG_9620.JPG',
   },
   {
     category: 'Cold Drinks',
     item: 'Strawberry shake',
-    price: 'GL: 3, HL:6, HL:12',
+    price: 'GL: $3, HL: $6, HL: $12',
     image: 'IMG_9617.JPG',
   },
   {
     category: 'Cold Drinks',
     item: 'Liin dhanaan',
-    price: 'GL: 1, HL:2, HL:4',
+    price: 'GL: $1, HL: $2, HL: $4',
     image: 'IMG_9636.JPG',
   },
   {
     category: 'Cold Drinks',
     item: 'Babaay',
-    price: 'GL: 1.5, HL:3, HL:6',
+    price: 'GL: $1.5, HL: $3, HL: $6',
     image: 'IMG_9624.JPG',
   },
   {
     category: 'Cold Drinks',
     item: 'Furulaato',
-    price: 'GL: 2, HL:3, HL:6',
+    price: 'GL: $2, HL: $3, HL: $6',
     image: '283A1626.JPG',
   },
   {
@@ -270,19 +270,19 @@ const data = [
     image: '283A1700.JPG',
   },
   {
-    category: 'desert and Pastries',
+    category: 'Desert and pastries',
     item: 'Malawax',
     price: 0.5,
     image: '283A3568.JPG',
   },
   {
-    category: 'desert and Pastries',
+    category: 'Desert and pastries',
     item: 'Sambuus',
     price: 0.5,
     image: '283A2065.JPG',
   },
   {
-    category: 'desert and Pastries',
+    category: 'Desert and pastries',
     item: 'Bur',
     price: 0.5,
   },
@@ -947,61 +947,61 @@ const data = [
   {
     category: 'Pizza',
     item: 'Margarita',
-    price: 'S: 8, M: 11, L: 15',
+    price: 'S: $8, M: $11, L: $15',
     image: '283A1554.JPG',
   },
   {
     category: 'Pizza',
     item: 'Chicken',
-    price: 'S: 8, M: 11, L: 15',
+    price: 'S: $8, M: $11, L: $15',
     image: '283A1554.JPG',
   },
   {
     category: 'Pizza',
     item: 'Meat',
-    price: 'S: 8, M: 11, L: 15',
+    price: 'S: $8, M: $11, L: $15',
     image: '283A1554.JPG',
   },
   {
     category: 'Pizza',
     item: 'Fish / Tuna',
-    price: 'S: 8, M: 11, L: 15',
+    price: 'S: $8, M: $11, L: $15',
     image: '283A1554.JPG',
   },
   {
     category: 'Pizza',
     item: 'Mexican',
-    price: 'S: 8, M: 11, L: 15',
+    price: 'S: $8, M: $11, L: $15',
     image: '283A1554.JPG',
   },
   {
     category: 'Pizza',
     item: 'Hawaiian',
-    price: 'S: 8, M: 11, L: 15',
+    price: 'S: $8, M: $11, L: $15',
     image: '283A1554.JPG',
   },
   {
     category: 'Pizza',
     item: 'Veggie',
-    price: 'S: 8, M: 11, L: 15',
+    price: 'S: $8, M: $11, L: $15',
     image: '283A1554.JPG',
   },
   {
     category: 'Pizza',
     item: 'Peri Peri',
-    price: 'S: 8, M: 11, L: 15',
+    price: 'S: $8, M: $11, L: $15',
     image: '283A1554.JPG',
   },
   {
     category: 'Pizza',
     item: 'Nopolitano',
-    price: 'S: 8, M: 11, L: 15',
+    price: 'S: $8, M: $11, L: $15',
     image: '283A1554.JPG',
   },
   {
     category: 'Pizza',
     item: 'Firdhis',
-    price: 'S: 8, M: 11, L: 15',
+    price: 'S: $8, M: $11, L: $15',
     image: '283A1554.JPG',
   },
   {
@@ -1083,12 +1083,15 @@ const data = [
   },
 ]
 
+const noImageAvailable =
+  'https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png'
+
 export const getItems = () => {
   const imageBaseUrl =
     'https://farshaxan.blr1.cdn.digitaloceanspaces.com/karamel/'
   return data?.map((item) => ({
     ...item,
-    image: imageBaseUrl + item.image,
+    image: item?.image ? imageBaseUrl + item.image : noImageAvailable,
     price: item?.price || 0,
   }))
 }
