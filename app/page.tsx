@@ -15,7 +15,7 @@ export default async function Home() {
         alt='logo'
         width={405}
         height={256}
-        className='text-center mx-auto w-full sm:w-80 duration-1000'
+        className='text-center mx-auto w-80 duration-1000'
       />
 
       <div className='divider divider-secondary text-secondary text-3xl font-bold my-10'>

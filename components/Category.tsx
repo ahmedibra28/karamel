@@ -1,9 +1,24 @@
 import React from 'react'
+import BlurImage from './BlurImage'
 
 const Category = ({ label }: { label: string }) => {
+  const image =
+    'https://farshaxan.blr1.cdn.digitaloceanspaces.com/karamel/283A2707.JPG'
+
   return (
-    <div className='text-my-primary uppercase bg-gradient-to-r from-my-primary via-my-secondary to-my-primary hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-my-primary dark:focus:ring-my-primary shadow-lg shadow-my-primary/50 dark:shadow-lg dark:shadow-my-primary/80 font-bold rounded-lg text-sm md:text-lg px-5 py-2.5 text-center mx-auto w-40 h-32 flex justify-center items-center'>
-      <span className='text-black'> {label}</span>
+    <div className='card h-38 image-full relative shadow-2xl'>
+      <figure>
+        <BlurImage
+          src={image}
+          alt={label}
+          width={500}
+          height={500}
+          className='rounded-xl w-full h-38 shadow-xl'
+        />
+      </figure>
+      <div className='card-body flex justify-center items-center bg-black/50 z-50 rounded-xl'>
+        <h2 className='card-title text-white font-bold uppercase'>{label}</h2>
+      </div>
     </div>
   )
 }
